@@ -7,7 +7,6 @@ export class AuthService {
         'd2e621a6646a4211768cd68e26f21228a81',
     ];
     validateApiKey(apiKey: string) {
-        console.log(apiKey == this.apiKeys[1]);
         return this.apiKeys.find(apiK => apiKey === apiK);
     }
 }
