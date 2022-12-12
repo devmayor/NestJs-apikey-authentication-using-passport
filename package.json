@@ -24,7 +24,7 @@
     "@nestjs/common": "^7.0.0",
     "@nestjs/core": "^7.0.0",
     "@nestjs/passport": "^7.0.0",
-    "@nestjs/platform-express": "^7.0.0",
+    "@nestjs/platform-express": "^9.2.1",
     "passport": "^0.4.1",
     "passport-headerapikey": "^1.2.1",
     "reflect-metadata": "^0.1.13",
